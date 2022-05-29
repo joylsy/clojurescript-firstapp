@@ -1,9 +1,13 @@
 # first-app
 
-A [re-frame](https://github.com/day8/re-frame) application designed to ... well, that part is up to
-you.
+This is based on a youtube tutorial of __[on the code again]__ https://youtu.be/yVb8PS6a4Mk.
+
+I used the tutorial above to learn about clojurescript. re-frame, re-frame-10x and http-fx
 
 ## Getting Started
+
+A [re-frame](https://github.com/day8/re-frame) application designed to ... well, that part is up to
+you.
 
 ### Project Overview
 
